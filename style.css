@@ -9,7 +9,7 @@ body{
 }
 
 .font-primary{
-    color:aqua;
+    color: #00ABAE;
 }
 
 .title-icon{
@@ -66,7 +66,7 @@ ABOUT
 
 #about .skills {
     font-size: 14px;
-    color:rgb(11, 234, 234);
+    color: #00ABAE;
     margin-bottom: 10px;
     font-weight: bold;
 }
@@ -74,11 +74,16 @@ ABOUT
 #about .email {
     margin-top: 14px;
     font-size: 14px;
+    font-weight: bold;
 }
 
 #about .icons {
     margin-top: 20px;
     font-size: 30px;
+}
+
+#about .icons a {
+    color:black;
 }
 
 /**********************
